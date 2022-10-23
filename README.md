@@ -6,3 +6,15 @@ In this short course, we will introduce foundations of computational problem sol
 
 - Day 1: Foundations of Computational Problem Solving: Tools and Techniques
 - Day 2: Mathematical Models for Infectious Disease Dynamics: Prediction and Control
+
+## Lessons
+
+| Lesson                             | Notebook             |
+| :-------------------------------- | :-------------------: |
+| Computational Thinking | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/modeling_infectious-diseases_workshop/blob/main/lessons/computational_thinking.ipynb) |
+| Machine Learning Overview | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/modeling_infectious-diseases_workshop/blob/main/lessons/machine_learning_overview.ipynb)  |
+| Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/modeling_infectious-diseases_workshop/blob/main/lessons/ml_regresssion.ipynb) |
+| Model Selection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/modeling_infectious-diseases_workshop/blob/main/lessons/ml_model_selection.ipynb) |
+| Neural Networks - Part 1| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/modeling_infectious-diseases_workshop/blob/main/lessons/neural_networks_part1.ipynb) |
+| Physics-Informed Neural Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/modeling_infectious-diseases_workshop/blob/main/lessons/pinn.ipynb) |
+| Diseases-Informed Neural Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/modeling_infectious-diseases_workshop/blob/main/lessons/dinn.ipynb) |
